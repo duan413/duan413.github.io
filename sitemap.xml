@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://duan413.github.io/About/index.html</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://duan413.github.io/Tags/index.html</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://duan413.github.io/xiangce/index.html</loc>
     
     <lastmod>2020-09-11</lastmod>
@@ -23,21 +37,7 @@
   </url>
   
   <url>
-    <loc>http://duan413.github.io/Tags/index.html</loc>
-    
-    <lastmod>2020-09-10</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://duan413.github.io/music/index.html</loc>
-    
-    <lastmod>2020-09-10</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://duan413.github.io/About/index.html</loc>
     
     <lastmod>2020-09-10</lastmod>
     
