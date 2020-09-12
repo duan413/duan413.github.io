@@ -6,7 +6,7 @@
   <link href="http://duan413.github.io/atom.xml" rel="self"/>
   
   <link href="http://duan413.github.io/"/>
-  <updated>2020-09-12T06:09:53.821Z</updated>
+  <updated>2020-09-12T13:22:33.155Z</updated>
   <id>http://duan413.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>css笔记</title>
+    <link href="http://duan413.github.io/2020/09/12/css%E5%8A%A8%E7%94%BB%E7%AC%94%E8%AE%B0/"/>
+    <id>http://duan413.github.io/2020/09/12/css%E5%8A%A8%E7%94%BB%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-09-12T13:21:47.000Z</published>
+    <updated>2020-09-12T13:22:33.155Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="记录学习动画中的知识点"><a href="#记录学习动画中的知识点" class="headerlink" title="记录学习动画中的知识点"></a>记录学习动画中的知识点</h3><h4 id="flex布局："><a href="#flex布局：" class="headerlink" title="flex布局："></a>flex布局：</h4><p>使目标居中:  </p><pre><code>display: flex; justify-content: center;align-items: center;</code></pre><h4 id="animation布局"><a href="#animation布局" class="headerlink" title="animation布局:"></a>animation布局:</h4><p>用@keyframes定义一个函数名字:    </p><pre><code>@keyframes hd&#123;    from&#123;            background: white;     &#125;    to&#123;           background: #e74c3c;    &#125;&#125; </code></pre><p>然后用于目标: </p><pre><code> animation-name: hd; animation-duration: 2s;</code></pre><p>最后差不多这样子，别的效果可以自己另外加入:  </p><pre><code> @keyframes hd&#123;0%&#123;    background: white;&#125;50%&#123;    transform: scale(2);&#125;100%&#123;    background: #e74c3c;&#125;&#125;</code></pre><p>移动的小方快:<br>先设置一个大盒子main，在里设置一个div，</p><pre><code> @keyframes hd&#123;25%&#123;    transform: translateX(300px);&#125;50%&#123;    transform: translate(300px,300px);    &lt;!-- 移动方向距离 --&gt;&#125;100%&#123;    transform: translateY(300px);&#125;&#125;   </code></pre><p>main和div的 </p><pre><code>main&#123;width: 400px;height: 400px;background: white;&#125;  div&#123;width: 100px;height: 100px;background: yellow;animation-name: hd;border: solid 1px #ddd;animation-duration: 2s;&#125;</code></pre><h4 id="影响"><a href="#影响" class="headerlink" title="影响"></a>影响</h4><p>属性重叠对动画影响:</p><p>加入定义三个动画，分别是translate,animation,border. </p><p>分别有不同的影响,但是时间分别是4s,2s,1s.  </p><p>优先级从后面往前面，所以1s先border，2s的animation剩下1s，所以translate剩下2s。</p><h3 id="transform可以旋转，缩放，移动，倾斜"><a href="#transform可以旋转，缩放，移动，倾斜" class="headerlink" title="transform可以旋转，缩放，移动，倾斜"></a>transform可以旋转，缩放，移动，倾斜</h3><p>scale()可以缩放大小。  </p><p>::after是伪类元素，就是加入一些特别的小动画。  </p><p>animation-iteration-count: 控制次数.</p><p>背景可以有渐变选项。</p><p>动画也有方向选择。</p><p>section是阴影，可以用。<br>filter是阴影的虚实。<br>比如说一个小球跳起来的影子。<br><img src="https://i.loli.net/2020/09/12/k6xZPVd4EHsbuve.png" alt="image.png"><br><img src="https://i.loli.net/2020/09/12/V9A4x6ZDQtwcmTh.png" alt="image.png"><br>动画延迟的作用:因为动画的时间包含延迟时间运用填充css.<br>贝塞尔控制曲线速率: <a href="https://cubic-bezier.com/">https://cubic-bezier.com/</a>  </p><h4 id="按钮提交效果"><a href="#按钮提交效果" class="headerlink" title="按钮提交效果:"></a>按钮提交效果:</h4><p>首先currentcolor是一个可以使用当前文本颜色的一个好东西。<br><img src="https://i.loli.net/2020/09/12/nU7uOMbrQKPfDVZ.png" alt="image.png"><br><img src="https://i.loli.net/2020/09/12/p954IehWxU6gyCd.png" alt="image.png"><br>省略号使用伪类元素。  </p><h4 id="步进动画；"><a href="#步进动画；" class="headerlink" title="步进动画；"></a>步进动画；</h4><p><img src="https://i.loli.net/2020/09/12/bxnr9kNUQKZhTlI.png" alt="image.png">  </p><h4 id="控制动画播放暂停"><a href="#控制动画播放暂停" class="headerlink" title="控制动画播放暂停:"></a>控制动画播放暂停:</h4><p><img src="https://i.loli.net/2020/09/12/FPtgk5h7AR8B2QM.png" alt="image.png">  </p><h4 id="做轮播图"><a href="#做轮播图" class="headerlink" title="做轮播图:"></a>做轮播图:</h4><p><img src="https://i.loli.net/2020/09/12/PKq98u3HhgbDJIc.png" alt="image.png"><br>可以使用overflow来隐藏.然后步进动画来一个一个动.加入下面的编号，<br><img src="https://i.loli.net/2020/09/12/u5bwG1DrJpYizfX.png" alt="image.png">  </p><h4 id="动画填充模式-四种"><a href="#动画填充模式-四种" class="headerlink" title="动画填充模式:四种"></a>动画填充模式:四种</h4><p><img src="https://i.loli.net/2020/09/12/fh5LRpiCaIBzPgn.png" alt="image.png"></p><h4 id="动画可以综合起来一起写"><a href="#动画可以综合起来一起写" class="headerlink" title="动画可以综合起来一起写:"></a>动画可以综合起来一起写:</h4><p><img src="https://i.loli.net/2020/09/12/hal13oi8mXHKtIR.png" alt="image.png"><br>ok，以上就是这次的记录.</p>]]></content>
+    
+    
+    <summary type="html">开学的第一次日记</summary>
+    
+    
+    
+    
+    <category term="CSS" scheme="http://duan413.github.io/tags/CSS/"/>
+    
+  </entry>
   
   <entry>
     <title>编一个拟态页面</title>
