@@ -4841,7 +4841,7 @@ img {
   padding: 0.3rem 0 0.8em;
 }
 .mathjax-overflow {
-  overflow-x: auto;
+  overflow-x: visible;
   overflow-y: hidden;
 }
 mjx-container[jax='CHTML'][display='true'] {
