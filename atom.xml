@@ -6,7 +6,7 @@
   <link href="http://duan413.github.io/atom.xml" rel="self"/>
   
   <link href="http://duan413.github.io/"/>
-  <updated>2020-09-15T13:35:31.884Z</updated>
+  <updated>2020-09-17T05:49:35.004Z</updated>
   <id>http://duan413.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://duan413.github.io/2020/09/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%89/"/>
     <id>http://duan413.github.io/2020/09/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%89/</id>
     <published>2020-09-15T12:17:20.000Z</published>
-    <updated>2020-09-15T13:35:31.884Z</updated>
+    <updated>2020-09-17T05:49:35.004Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="运动副及其分类"><a href="#运动副及其分类" class="headerlink" title="运动副及其分类"></a>运动副及其分类</h3><p>自由度计算，考一个大题（10分）  </p><p>构件相对于参考坐标系的独立运动的数目称之为自由度。所以，一个平面运动的自由构件有三个自由度。<br>两个构件直接接触并且能够产生 一定相对运动的连接称之为运动副。构件组成运动副后，独立运动受到约束，自由度随之减少。<br>两个构件组成运动副，其接触不外乎点线面。按照接触特性，通常分为高副和低副。<br>1.低副<br>两个构件通过面接触组成的叫低副。平面运动分为转动副和移动副。<br>(1)转动副若组成运动副的两构件只能在平面内相对转动，这种运动副称为转动副，或称铰链，如图1-2所示。</p><p>(2)移动副若组成运动副的两构件只能沿其一 方向作相对直线移动，这种运动副称为移动副,如图1-3所示。</p><p>2.高副<br>两构件通过点或线接触组成的运动副称为高副。<br>车轮与钢轨中的凸轮与从动件、齿轮与齿轮别在接触处组成高副。组成平面高副两构件间的相对运动是沿接触处公切线t-t方向的相对移动和在平面内的相对转动。</p><h3 id="平面机构运动简图"><a href="#平面机构运动简图" class="headerlink" title="平面机构运动简图"></a>平面机构运动简图</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="运动副及其分类"><a href="#运动副及其分类" class="headerlink" title="运动副及其分类"></a>运动副及其分类</h3><p>自由度计算，考一个大题（10分）  </p><p>构件相对于参考坐标系的独立运动的数目称之为自由度。所以，一个平面运动的自由构件有三个自由度。<br>两个构件直接接触并且能够产生 一定相对运动的连接称之为运动副。构件组成运动副后，独立运动受到约束，自由度随之减少。<br>两个构件组成运动副，其接触不外乎点线面。按照接触特性，通常分为高副和低副。<br>1.低副<br>两个构件通过面接触组成的叫低副。平面运动分为转动副和移动副。<br>(1)转动副若组成运动副的两构件只能在平面内相对转动，这种运动副称为转动副，或称铰链，如图1-2所示。</p><p>(2)移动副若组成运动副的两构件只能沿其一 方向作相对直线移动，这种运动副称为移动副,如图1-3所示。</p><p>2.高副<br>两构件通过点或线接触组成的运动副称为高副。<br>车轮与钢轨中的凸轮与从动件、齿轮与齿轮别在接触处组成高副。组成平面高副两构件间的相对运动是沿接触处公切线t-t方向的相对移动和在平面内的相对转动。</p><h3 id="平面机构运动简图"><a href="#平面机构运动简图" class="headerlink" title="平面机构运动简图"></a>平面机构运动简图</h3><p>运动简图比例尺：<br>1m：50mm,类似这样。  </p><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/BChb1NgxMraFmZQ.jpg" alt="qq_pic_merged_1600320289506.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/GezQSiAl6V7nfEP.jpg" alt="qq_pic_merged_1600320277582.jpg">  </p><h3 id="平面机构自由度"><a href="#平面机构自由度" class="headerlink" title="平面机构自由度"></a>平面机构自由度</h3><h4 id="平面机构自由度计算公式"><a href="#平面机构自由度计算公式" class="headerlink" title="平面机构自由度计算公式"></a>平面机构自由度计算公式</h4><ol><li><p>F = 3n - 2Pl -Ph<br>Pl为低副的约束，Ph为高副的。<br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/bDZ9L5N6yjhWguo.jpg" alt="qq_pic_merged_1600320537808.jpg">  </p></li><li><p>原动件数与机构自由度的关系：</p><p> 原动件数小于机构自由度：不具有相对运动。  </p><p> 原动件数等于机构自由度：会出现损坏。  </p><p> 原动件数大于机构自由度：具有确定运动。</p><h4 id="计算平面机构自由度的注意事项"><a href="#计算平面机构自由度的注意事项" class="headerlink" title="计算平面机构自由度的注意事项"></a>计算平面机构自由度的注意事项</h4></li><li><p>复合铰链<br>两个以上的构件同时在一处转动副相连节就构成复合铰链，这三个组成两个转动副。以此类推，k个在一处，就是（k - 1）个。</p></li><li><p>局部自由度<br>机构中通常出现一种与输出构件无关的自由度，称为局部自由度。</p><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/RmAEuP9UO1vZzec.jpg" alt="qq_pic_merged_1600321000899.jpg"></p></li><li><p>虚约束<br>有些约束的作用是重复的，这种重复的且不起限制作用的叫虚约束。<br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/J6tKlenDZRhL9wH.png" alt="image.png"><br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/IPb7RG6N3UaVqtj.png" alt="image.png">  </p><h3 id="速度瞬心机器在机构速度分析上的应用"><a href="#速度瞬心机器在机构速度分析上的应用" class="headerlink" title="速度瞬心机器在机构速度分析上的应用"></a>速度瞬心机器在机构速度分析上的应用</h3><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/IPb7RG6N3UaVqtj.png" alt="image.png"><br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/O8aXF7vIMpuHU2c.jpg" alt="qq_pic_merged_1600321696387.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/mfitGjU7BXhxnuH.jpg" alt="qq_pic_merged_1600321715835.jpg"></p></li></ol>]]></content>
     
     
       
