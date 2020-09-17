@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://duan413.github.io/About/index.html</loc>
+    
+    <lastmod>2020-09-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://duan413.github.io/2020/09/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%89/</loc>
     
     <lastmod>2020-09-17</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://duan413.github.io/2020/09/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%BB%AA%E8%AE%BA%EF%BC%89/</loc>
     
     <lastmod>2020-09-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://duan413.github.io/About/index.html</loc>
-    
-    <lastmod>2020-09-14</lastmod>
     
   </url>
   
@@ -102,14 +102,14 @@
 
   
   <url>
-    <loc>http://duan413.github.io/tags/CSS/</loc>
+    <loc>http://duan413.github.io/tags/HTML/</loc>
     <lastmod>2020-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://duan413.github.io/tags/HTML/</loc>
+    <loc>http://duan413.github.io/tags/CSS/</loc>
     <lastmod>2020-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
