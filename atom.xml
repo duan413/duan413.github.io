@@ -6,7 +6,7 @@
   <link href="http://duan413.github.io/atom.xml" rel="self"/>
   
   <link href="http://duan413.github.io/"/>
-  <updated>2020-09-18T14:15:48.283Z</updated>
+  <updated>2020-09-21T03:31:11.395Z</updated>
   <id>http://duan413.github.io/</id>
   
   <author>
@@ -17,11 +17,55 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>互换性与技术测量（第二章）</title>
+    <link href="http://duan413.github.io/2020/09/21/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%B5%8B%E9%87%8F%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%89/"/>
+    <id>http://duan413.github.io/2020/09/21/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%B5%8B%E9%87%8F%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%89/</id>
+    <published>2020-09-21T03:18:00.000Z</published>
+    <updated>2020-09-21T03:31:11.395Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="几何测量技术基础"><a href="#几何测量技术基础" class="headerlink" title="几何测量技术基础"></a>几何测量技术基础</h2><h3 id="测量与检验的概念"><a href="#测量与检验的概念" class="headerlink" title="测量与检验的概念"></a>测量与检验的概念</h3><p>检测是测量与检验的总称。测量是指将被测量与作为测量单位的标准量进行比较，从而确定被测量的实验过程，而检验则是判断零件是否合格而不需要测出具体数值。  </p><p>一个完整的测量过程应包括如下四个要素:<br>(1)被测对象<br>(2)测量单位(3)测量方法 (4)测量精度</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;几何测量技术基础&quot;&gt;&lt;a href=&quot;#几何测量技术基础&quot; class=&quot;headerlink&quot; title=&quot;几何测量技术基础&quot;&gt;&lt;/a&gt;几何测量技术基础&lt;/h2&gt;&lt;h3 id=&quot;测量与检验的概念&quot;&gt;&lt;a href=&quot;#测量与检验的概念&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    
+    <category term="互换性与技术测量" scheme="http://duan413.github.io/tags/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%B5%8B%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>互换性与技术测量（绪论）</title>
+    <link href="http://duan413.github.io/2020/09/21/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%B5%8B%E9%87%8F%EF%BC%88%E7%BB%AA%E8%AE%BA%EF%BC%89/"/>
+    <id>http://duan413.github.io/2020/09/21/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%B5%8B%E9%87%8F%EF%BC%88%E7%BB%AA%E8%AE%BA%EF%BC%89/</id>
+    <published>2020-09-21T02:52:20.000Z</published>
+    <updated>2020-09-21T03:25:20.108Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="绪论"><a href="#绪论" class="headerlink" title="绪论"></a>绪论</h2><h3 id="互换性与公差的概念"><a href="#互换性与公差的概念" class="headerlink" title="互换性与公差的概念"></a>互换性与公差的概念</h3><h4 id="互换性的概念"><a href="#互换性的概念" class="headerlink" title="互换性的概念"></a>互换性的概念</h4><p>  广义上说，互换性是指一种产品、 过程或服务能够代替另一产品、过程或服务，且能满足同样要求的能力。</p><p>零部件的互换性就是同一.规格零部件按规定的技术要求制造，能够彼此相互替换使用而效果相同的性能。</p><h4 id="公差的概念"><a href="#公差的概念" class="headerlink" title="公差的概念"></a>公差的概念</h4><p>人们把这个允许几何量变动的范围称为几何量公差。这也是本课程所讲公差的范畴。  </p><h4 id="互换性的作用"><a href="#互换性的作用" class="headerlink" title="互换性的作用"></a>互换性的作用</h4><p>(1) 在设计方面 若零部件具有互换性，就能最大限度地使用标准件，从而简化绘图和计算等工作，使设计周期变短，利于产品更新换代和CAD技术的应用。</p><p>(2)在制造方面互换性有利于组织专业化生产，使用专用设备和CAM技术。  </p><p>(3)在使用和维修方面零部件具有互换性可以及时更换那些已经磨损或损坏的零能<br>标准件，对于某些易损件可以提供备用件，从而提高机器的使用价值。  </p><h4 id="互换性的种类"><a href="#互换性的种类" class="headerlink" title="互换性的种类"></a>互换性的种类</h4><p>完全互换性简称互换性，以零部件装配或更换时不需要挑选或修配为条件。孔和轴加工后只要符合设计的规定要求，则它们就具有完全互换性。</p><p>不完全互换性也称有限互换性，在零部件装配时允许有附加条件的选择或调整。对于不完全互换性可以采用分组装配法、调整法等方法来实现。  </p><h3 id="标准化与优先数系"><a href="#标准化与优先数系" class="headerlink" title="标准化与优先数系"></a>标准化与优先数系</h3><h4 id="标准与标准化的概念"><a href="#标准与标准化的概念" class="headerlink" title="标准与标准化的概念"></a>标准与标准化的概念</h4><p>(1)标准是指为了在一定的范围内获得最佳秩序，对活动或其结果规定和重复使用的规则、导则或特性的文件。<br>(2)标准化标准化是指为了 在一定的范围内获得最佳秩序，对实际或潜的意义。定共同的和重复使用的规则的活动。  </p><h4 id="标准分类"><a href="#标准分类" class="headerlink" title="标准分类"></a>标准分类</h4><p>(1)按标准的使用范围<br>(2)按标准的作用范围<br>(3)按标准化对象的特征<br>(4)按标准的性质标准 </p><h4 id="优先数系及其公比"><a href="#优先数系及其公比" class="headerlink" title="优先数系及其公比"></a>优先数系及其公比</h4><p>国家标准GB/T 321- -2005 《优先数和优先数系》规定十进等比数列为优先数系，非锦定了五个系列，分别用系列符号R5、R10、R20、 R40 和R80表示，称为Rr系列。其中前四个系列是常用的基本系列，R80 作为补充系列，仅用于分级很细的特殊场合。  </p><p>按几何公比递增，每进5项使项值增大10倍。<br><a href="https://imgchr.com/i/wHQZAH"><img src= "/img/loading.gif" data-lazy-src="https://s1.ax1x.com/2020/09/21/wHQZAH.md.png" alt="wHQZAH.md.png"></a> </p><h4 id="优先数与优先数系的特点"><a href="#优先数与优先数系的特点" class="headerlink" title="优先数与优先数系的特点"></a>优先数与优先数系的特点</h4><p>优先数系中的任何一个项值均称为优先数。   </p><p>优先数系主要有以下特点：<br>1)任意相邻网项间的相对差近似不变(按理论值则相对差为恒定值)。<br>2)任意两项的理论值经计算后仍为一个优先数的理论值<br>3) 优先数系具有相关性。 </p><h4 id="优先数系的派生系列"><a href="#优先数系的派生系列" class="headerlink" title="优先数系的派生系列"></a>优先数系的派生系列</h4><p><a href="https://imgchr.com/i/wH1Dk4"><img src= "/img/loading.gif" data-lazy-src="https://s1.ax1x.com/2020/09/21/wH1Dk4.jpg" alt="wH1Dk4.jpg"></a></p><h4 id="优先数系选用规则"><a href="#优先数系选用规则" class="headerlink" title="优先数系选用规则"></a>优先数系选用规则</h4><p>选用基本系列时，应遵守先疏后密的规则</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;绪论&quot;&gt;&lt;a href=&quot;#绪论&quot; class=&quot;headerlink&quot; title=&quot;绪论&quot;&gt;&lt;/a&gt;绪论&lt;/h2&gt;&lt;h3 id=&quot;互换性与公差的概念&quot;&gt;&lt;a href=&quot;#互换性与公差的概念&quot; class=&quot;headerlink&quot; title=&quot;互换性与公差的</summary>
+      
+    
+    
+    
+    
+    <category term="互换性与技术测量" scheme="http://duan413.github.io/tags/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%B5%8B%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>机械设计基础（第二章）</title>
     <link href="http://duan413.github.io/2020/09/18/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%89/"/>
     <id>http://duan413.github.io/2020/09/18/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%89/</id>
     <published>2020-09-18T13:30:32.000Z</published>
-    <updated>2020-09-18T14:15:48.283Z</updated>
+    <updated>2020-09-21T02:52:12.805Z</updated>
     
     <content type="html"><![CDATA[<h2 id="平面连杆机构"><a href="#平面连杆机构" class="headerlink" title="平面连杆机构"></a>平面连杆机构</h2><h3 id="平面四杆机构的基本类型及其应用"><a href="#平面四杆机构的基本类型及其应用" class="headerlink" title="平面四杆机构的基本类型及其应用"></a>平面四杆机构的基本类型及其应用</h3><ol><li>铰链四杆机构<br>定义：全部用转动副相连的平面四杆机构称为平面铰链四杆机构。<br>三种基本形式：<br>曲柄连杆机构<br>双曲柄机构<br>双摇杆机构</li><li>含有一个移动副的四杆机构<br>曲柄滑块机构<br>曲柄转动导杆机构<br>摆动滑块机构<br>固定滑块机构 </li><li>含有两个移动副的四杆机构<br>含有两个移动副的四杆机构叫双滑块机构<br>按照两个移动副位置不同，分为<br>(1)正切机构：两个移动副不相邻。<br>(2)正弦机构:两个移动副相邻且其中一一个移动副与机架相关联。<br>(3)两个移动副相邻且均不与机架相关联。<br>(4)两个移动副都与机架相关联。  </li><li>具有偏心轮的四杆机构  </li></ol><h3 id="平面四杆机构的基本特性"><a href="#平面四杆机构的基本特性" class="headerlink" title="平面四杆机构的基本特性"></a>平面四杆机构的基本特性</h3><ol><li><p>铰链四杆机构有整转副的条件  </p><p> (1) 各杆的长度满足杆长条件:<br> 最短杆长度a与最长杆长度d之和不大于其余两杆长度b、c之和，即a+d&lt;b+c  </p><p> (2)整转副是由最短杆与其相邻杆组成的。  </p><p> (3)具有整转副的铰链四杆机构是否存在曲柄，应根据选择哪一个杆为机架来判断:  </p><p> ①取最短杆为机架时，机架上有两个整转副，得双曲柄机构;  </p><p> ②取最短杆的邻边为机架时，机架上只有一个整转副，得曲柄摇杆机构;  </p><p> ③取最短杆的对边为机架时，机架上没有整转副，得双摇杆机构。  </p><p> 铰链四杆机构中，若最短杆与最长杆的长度之和大于其余两杆长度之和，则该机构中不存在整转副，无论取<br> 哪个构件作为机架都只能得到双摇杆机构。</p></li><li><p>急回特性  </p><p> (1)极位:在曲柄摇杆机构中，当曲柄与连杆出现两次共线时,摇杆所到达的两个极限位置。  </p><p> (2)极位夹角:曲柄处于两极限位置时的位置夹角，用θ表示。  </p><p> (3)急回运动:曲柄匀速转动，摇杆往复摆动的快慢不同，机构的这种运动称为急回运动。用行程速度变<br> 化系数K来表示急回运动特性，则有极位夹角θ越大，K值越大，急回运动的性质越显著。</p></li><li><p>压力角和传动角    </p><p> (1)压力角<br> 作用在从动件.上的驱动力F与该力作用点绝对速度vc之间所夹的锐角a称为压力角。   </p><p> (2)传动角<br> 压力角a的余角Y (即连杆和从动摇杆之间所夹的锐角)称为传动角。<br> a越小，γ越大，机构传力性能越好;反之，a越大，γ越小，机构传力越费劲，传动效率越低。  </p><p> (3)压力角的计算公式</p></li><li><p>死点位置     </p><p> (1)定<br> 当机构中的传动角γ =0时，若不计各杆的质量，连杆加给曲柄的力将经过铰链中心，该力对铰链中心不产<br> 生力矩，因此不能使曲柄转动。机构的这种传动角为零的位置称为死点位置。  </p><p> (2) 消<br> 对从动曲柄施加外力，或利用飞轮及构件自身的惯性作用，使机构通过死点位置。  </p><p> (3) 应用<br> 死点位置对传动虽然不利，但是对某些夹紧装置却可用于防松。</p><h3 id="平面四杆机构的设计"><a href="#平面四杆机构的设计" class="headerlink" title="平面四杆机构的设计"></a>平面四杆机构的设计</h3></li><li><p>按照给定的行程速度变化系数设计四杆机构  </p></li><li><p>按照给定连杆位置设计四杆机构  </p></li><li><p>按照给定两连架杆对应位置设计四杆机构  </p></li><li><p>按照给定点的运动轨迹设计四杆机构</p></li></ol>]]></content>
     
@@ -34,6 +78,8 @@
     
     
     
+    <category term="机械设计基础" scheme="http://duan413.github.io/tags/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/"/>
+    
   </entry>
   
   <entry>
@@ -41,7 +87,7 @@
     <link href="http://duan413.github.io/2020/09/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%89/"/>
     <id>http://duan413.github.io/2020/09/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%89/</id>
     <published>2020-09-15T12:17:20.000Z</published>
-    <updated>2020-09-17T05:49:35.004Z</updated>
+    <updated>2020-09-21T02:52:07.569Z</updated>
     
     <content type="html"><![CDATA[<h3 id="运动副及其分类"><a href="#运动副及其分类" class="headerlink" title="运动副及其分类"></a>运动副及其分类</h3><p>自由度计算，考一个大题（10分）  </p><p>构件相对于参考坐标系的独立运动的数目称之为自由度。所以，一个平面运动的自由构件有三个自由度。<br>两个构件直接接触并且能够产生 一定相对运动的连接称之为运动副。构件组成运动副后，独立运动受到约束，自由度随之减少。<br>两个构件组成运动副，其接触不外乎点线面。按照接触特性，通常分为高副和低副。<br>1.低副<br>两个构件通过面接触组成的叫低副。平面运动分为转动副和移动副。<br>(1)转动副若组成运动副的两构件只能在平面内相对转动，这种运动副称为转动副，或称铰链，如图1-2所示。</p><p>(2)移动副若组成运动副的两构件只能沿其一 方向作相对直线移动，这种运动副称为移动副,如图1-3所示。</p><p>2.高副<br>两构件通过点或线接触组成的运动副称为高副。<br>车轮与钢轨中的凸轮与从动件、齿轮与齿轮别在接触处组成高副。组成平面高副两构件间的相对运动是沿接触处公切线t-t方向的相对移动和在平面内的相对转动。</p><h3 id="平面机构运动简图"><a href="#平面机构运动简图" class="headerlink" title="平面机构运动简图"></a>平面机构运动简图</h3><p>运动简图比例尺：<br>1m：50mm,类似这样。  </p><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/BChb1NgxMraFmZQ.jpg" alt="qq_pic_merged_1600320289506.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/GezQSiAl6V7nfEP.jpg" alt="qq_pic_merged_1600320277582.jpg">  </p><h3 id="平面机构自由度"><a href="#平面机构自由度" class="headerlink" title="平面机构自由度"></a>平面机构自由度</h3><h4 id="平面机构自由度计算公式"><a href="#平面机构自由度计算公式" class="headerlink" title="平面机构自由度计算公式"></a>平面机构自由度计算公式</h4><ol><li><p>F = 3n - 2Pl -Ph<br>Pl为低副的约束，Ph为高副的。<br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/bDZ9L5N6yjhWguo.jpg" alt="qq_pic_merged_1600320537808.jpg">  </p></li><li><p>原动件数与机构自由度的关系：</p><p> 原动件数小于机构自由度：不具有相对运动。  </p><p> 原动件数等于机构自由度：会出现损坏。  </p><p> 原动件数大于机构自由度：具有确定运动。</p><h4 id="计算平面机构自由度的注意事项"><a href="#计算平面机构自由度的注意事项" class="headerlink" title="计算平面机构自由度的注意事项"></a>计算平面机构自由度的注意事项</h4></li><li><p>复合铰链<br>两个以上的构件同时在一处转动副相连节就构成复合铰链，这三个组成两个转动副。以此类推，k个在一处，就是（k - 1）个。</p></li><li><p>局部自由度<br>机构中通常出现一种与输出构件无关的自由度，称为局部自由度。</p><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/RmAEuP9UO1vZzec.jpg" alt="qq_pic_merged_1600321000899.jpg"></p></li><li><p>虚约束<br>有些约束的作用是重复的，这种重复的且不起限制作用的叫虚约束。<br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/J6tKlenDZRhL9wH.png" alt="image.png"><br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/IPb7RG6N3UaVqtj.png" alt="image.png">  </p><h3 id="速度瞬心机器在机构速度分析上的应用"><a href="#速度瞬心机器在机构速度分析上的应用" class="headerlink" title="速度瞬心机器在机构速度分析上的应用"></a>速度瞬心机器在机构速度分析上的应用</h3><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/IPb7RG6N3UaVqtj.png" alt="image.png"><br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/O8aXF7vIMpuHU2c.jpg" alt="qq_pic_merged_1600321696387.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/09/17/mfitGjU7BXhxnuH.jpg" alt="qq_pic_merged_1600321715835.jpg"></p></li></ol>]]></content>
     
@@ -55,6 +101,8 @@
     
     
     
+    <category term="机械设计基础" scheme="http://duan413.github.io/tags/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/"/>
+    
   </entry>
   
   <entry>
@@ -62,7 +110,7 @@
     <link href="http://duan413.github.io/2020/09/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%BB%AA%E8%AE%BA%EF%BC%89/"/>
     <id>http://duan413.github.io/2020/09/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E7%BB%AA%E8%AE%BA%EF%BC%89/</id>
     <published>2020-09-15T12:08:55.000Z</published>
-    <updated>2020-09-15T12:16:46.615Z</updated>
+    <updated>2020-09-21T02:52:19.057Z</updated>
     
     <content type="html"><![CDATA[<p>1.机构与机器的区别在于:机构只是一个构件系统，而机器除构件系统之外，还包含电气、液压等其他装置;机构只用于传递运动和力，而机器除传递运动和开之外，还具有变换或传递能量、物料、信一息的功能。但是.在研究构件的运动和受力情况时,机器与机构并人无差别。因此,习惯上用“机械”一词作为机器和机构的总体。</p><p>2.这些零件没有相对运动，构成个运动单元，成为一个构件。 零件是制造的单元中，机械中的军件可分为两类:类称为通用零件，在许多机械中都会遇到，如齿轮螺钉轴弹赞等;另一类称为专用零件,只出现于某些特定机械之中，如汽轮机的叶片、内燃机的活塞等。</p><p>3.机器是执行机械运动的装置，用来变换或传递能量、物料、信息。凡将其他形式能量变换为机械能的机器称为原动机。如内燃机将热能变换为机械能，电动机将电能变换为机械一能,它们都是原动机。凡利用机械能去变换或传递能量、物料、信息的机器称为工作机。如发电机将机械能变换为电能，起重机传递物料，金属切削机床变换物料外形，磁带录音机变换和传递信息，它们都属于工作机</p><p>4.机器的主体是由许多运动构件构成的。</p>]]></content>
     
@@ -74,6 +122,8 @@
     
     
     
+    
+    <category term="机械设计基础" scheme="http://duan413.github.io/tags/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
