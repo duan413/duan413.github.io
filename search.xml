@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>绪论</title>
+      <link href="2020/09/21/%E4%BC%A0%E7%83%AD%E5%AD%A6%EF%BC%88%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%89/"/>
+      <url>2020/09/21/%E4%BC%A0%E7%83%AD%E5%AD%A6%EF%BC%88%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<h3 id="传热学的研究内容及其在科学技术和工程中的应用"><a href="#传热学的研究内容及其在科学技术和工程中的应用" class="headerlink" title="传热学的研究内容及其在科学技术和工程中的应用"></a>传热学的研究内容及其在科学技术和工程中的应用</h3><h4 id="传热学研究内容"><a href="#传热学研究内容" class="headerlink" title="传热学研究内容"></a>传热学研究内容</h4><p>传热学( heat tansfer )就是研究由温享( temperature dfference )引起的热能传递规律的科学。热力学第二定律指出:凡是有温差存在的地方，就有热能自发地从高温物体向低温物体传递(传递过程中的热能常称热量)。</p><p>单位时间内所传递的热量(热能的多少)与物体中相应的温度差之间的关系，反映这种规律的第一层次的关系 式称为热量传递的速率方程( rate equation )。</p><h3 id="工程传热分类"><a href="#工程传热分类" class="headerlink" title="工程传热分类"></a>工程传热分类</h3><p>（1）实现热量传递<br>（2）有效增强和削弱热量传递<br>（3）温度控制</p><h3 id="热能传递三种基本方式"><a href="#热能传递三种基本方式" class="headerlink" title="热能传递三种基本方式"></a>热能传递三种基本方式</h3><h4 id="热传导"><a href="#热传导" class="headerlink" title="热传导"></a>热传导</h4><p>物体各部分之间不发生相对位移时，依靠分子、原子及自由电子等微观粒子的热运动而产生的热能传递称为热传导(heat conduction ),简称导热。<br>导热：<br>温差<br>直接接触<br>微观粒子热运动<br>引力场下单纯只发生密实固体</p><h4 id="热对流"><a href="#热对流" class="headerlink" title="热对流"></a>热对流</h4><h4 id="热辐射"><a href="#热辐射" class="headerlink" title="热辐射"></a>热辐射</h4><h3 id="传热学研究方法"><a href="#传热学研究方法" class="headerlink" title="传热学研究方法"></a>传热学研究方法</h3><ol><li><p>解析法</p></li><li><p>实验法</p></li><li><p>数值法</p><p>热力学+传热学=热科学</p></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 传热学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>互换性与技术测量（第二章）</title>
       <link href="2020/09/21/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%B5%8B%E9%87%8F%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%89/"/>
       <url>2020/09/21/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%B5%8B%E9%87%8F%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%89/</url>
