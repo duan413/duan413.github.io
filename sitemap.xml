@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://duan413.github.io/shuoshuo/index.html</loc>
+    <loc>http://duan413.github.io/Archivas/index.html</loc>
+    
+    <lastmod>2020-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://duan413.github.io/xiangce/index.html</loc>
     
     <lastmod>2020-09-22</lastmod>
     
@@ -72,6 +79,13 @@
   </url>
   
   <url>
+    <loc>http://duan413.github.io/shuoshuo/index.html</loc>
+    
+    <lastmod>2020-09-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://duan413.github.io/qingdan/index.html</loc>
     
     <lastmod>2020-09-18</lastmod>
@@ -110,20 +124,6 @@
     <loc>http://duan413.github.io/ZERO/nitai.html</loc>
     
     <lastmod>2020-09-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://duan413.github.io/xiangce/index.html</loc>
-    
-    <lastmod>2020-09-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://duan413.github.io/Archivas/index.html</loc>
-    
-    <lastmod>2020-09-10</lastmod>
     
   </url>
   
