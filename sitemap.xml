@@ -137,43 +137,43 @@
 
   <url>
     <loc>http://duan413.github.io/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://duan413.github.io/tags/CSS/</loc>
-    <lastmod>2020-09-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://duan413.github.io/tags/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%B5%8B%E9%87%8F/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://duan413.github.io/tags/HTML/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <loc>http://duan413.github.io/tags/CSS/</loc>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://duan413.github.io/tags/%E4%BC%A0%E7%83%AD%E5%AD%A6/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://duan413.github.io/tags/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-10-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://duan413.github.io/tags/HTML/</loc>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
